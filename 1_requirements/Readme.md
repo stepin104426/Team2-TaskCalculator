@@ -14,5 +14,6 @@ Also known as calculating machine.A calculator is a device that performs arithme
 
 
 ## swot analysis
-![Image of Yaktocat](swot.jpg)
+![swot](https://user-images.githubusercontent.com/78540626/107034314-8c585f80-67dc-11eb-85ce-917fe8686e79.png)
+
 
