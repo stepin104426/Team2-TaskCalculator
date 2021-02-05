@@ -9,3 +9,10 @@ Also known as calculating machine.A calculator is a device that performs arithme
 
 ![Image of Yaktocat](calculator-page0001.jpg)
 
+
+
+
+
+## swot analysis
+![Image of Yaktocat](swot.jpg)
+
