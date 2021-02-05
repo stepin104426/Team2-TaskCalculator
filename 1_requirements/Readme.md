@@ -6,6 +6,8 @@ Also known as calculating machine.A calculator is a device that performs arithme
 
 ## Research
 ![Image of Yaktocat](calculator-page0001.jpg)
+## cost and age
+![Image of Yaktocat](cost_and_age.jpg)
 ## Defining system
 - Provide operations for the user to select one at a time.
 - Can be used to perform any process that consists of a sequence of steps each of which applies one of the operations including addition,subtraction,multiplication,division,modulus.
