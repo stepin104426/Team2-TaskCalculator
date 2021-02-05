@@ -1,3 +1,3 @@
 
 ![Image of Yaktocat](BehaviouralConversionModulus.png)
-![Image of Yaktocat]
+![Image of Yaktocat](StructuralConversionModulus.png)
