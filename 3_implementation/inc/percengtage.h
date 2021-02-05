@@ -19,6 +19,6 @@
 * if num1=0 then return 0
 * if num2=0 then prints error message
 */
-int percentage(num1,num2);
+int percentage(int num1,int num2);
 
 #endif /* #ifndef __PERCENTAGE_H__ */
