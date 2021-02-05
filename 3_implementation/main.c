@@ -2,6 +2,7 @@
 #include <math.h>
 
 #include "is_prime.h"
+#include "multiply.h"
 
 
 
