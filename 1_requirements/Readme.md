@@ -44,6 +44,22 @@ Also known as calculating machine.A calculator is a device that performs arithme
 ## How:
 
 **When there is a need, there is a innovation. Likeways, for required calculator needed in the market simultaneously that calculator in demand will be made.**
+# Detailed requirements
+## High Level Requirements:
+
+- A mobile calculator app that should perform simple calculations,scientific calculations and conversions
+- The calculator was developed using standard c language and should run on all machines supporting gcc compiler.
+- Should display following menu bar to users like -
+
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+
+- On encountering a division by 0 the display should read &quot;Cannot Divide by 0&quot; and typing the key &quot;C&quot; should reset the calculator.
+- Includes buttons with number 0 to 9.
+- calculator must provide with on,off and memory operations.
+- On calculating the square root value of a negative operand the display should read &quot;Wrong Operand&quot;.
 
 
 
