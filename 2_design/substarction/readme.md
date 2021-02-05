@@ -1,2 +1,2 @@
 ![Image of Yaktocat](BehaviouralConversionSubstraction.png)
-![Image of Yaktocat]()
+![Image of Yaktocat](StructuralConversionSubtraction.png)
