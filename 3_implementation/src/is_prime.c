@@ -1,6 +1,5 @@
 #include "is_prime.h"
 #include <stdio.h>
-
 #include <math.h>
 
 bool is_prime(unsigned long number)
