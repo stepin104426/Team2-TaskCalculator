@@ -18,7 +18,7 @@ Folder             | Description
 
 
 ## Test Summary
-Name                  | Number            | No. of Test Case             | No. of Test Case Passed          | No. of Test Case not Passed 
+Name                  | PS Number            | No. of Test Cases             | No. of Test Cases Passed          | No. of Test Cases not Passed 
 ----------------------|-------------------|------------------------------|----------------------------------|-------------------------------
 `1) Venkatampalli SaiBhargav` | 99003586     | |
 `2) SanjanaG S`           | 99003588 |
