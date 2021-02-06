@@ -4,7 +4,6 @@
 void test_all_prime(void)
 {
 	TEST_ASSERT_EQUAL(false, is_prime(  2u));
-	
 	TEST_ASSERT_EQUAL( true, is_prime(  5u));
 	TEST_ASSERT_EQUAL( true, is_prime( 89u));
 	TEST_ASSERT_EQUAL(false, is_prime(221u));
