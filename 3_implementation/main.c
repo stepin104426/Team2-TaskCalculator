@@ -29,7 +29,8 @@ void calc_opr()
 	printf("Enter Mod or mod for Modulus \n");
 	printf("Enter F or f for Factorial \n");
 	printf("Enter E or e for Exponential \n");
-	printf("Enter Pr or pr for Checking prime \n");tf("Enter Mod or mod for Modulus \n");
+	printf("Enter Pr or pr for Checking prime \n");
+	printf("Enter Mod or mod for Modulus \n");
 	printf("Enter F or f for Factorial \n");
 	printf("Enter E or e for Exponential \n");
 	printf("Enter Pr or pr for Checking prime \n");
