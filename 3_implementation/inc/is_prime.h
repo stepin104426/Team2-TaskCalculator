@@ -3,7 +3,6 @@
 *
 */
 #ifndef __IS_PRIME_H__
-
 #define __IS_PRIME_H__
 
 #include <stdbool.h>
