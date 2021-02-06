@@ -13,6 +13,19 @@ Folder             | Description
 `4_test_plan`      | Documents with test plans and procedures
 
 
+**Name**      | **ps no**  | Features     |  Issuess Raised                                  |             Issues Resolved                            |
+--------------|------------|--------------|--------------------------------------------------|--------------------------------------------------------|
+V.SaiBhargav  |99003586    |Exponential   | on bugging                                       | bugging issue is resolved                              |
+SanjanaG S    |99003588    |Multiplication| on operation                                     |operation issue is resolved                             |
+Madhura       |99003589    |Percentage    | error                                            |errors are resolved                                     |
+NallaSuryudu  |99003591    |Factorial     | error                                            |errors are resolved                                     |
+AbhisarEkka   |99003592    |Addition      |on bugging                                        |bugging issue is resolved                               |
+Goutham       |99003593    |Prime no      | on operation                                     |operation issue is resolved                             |
+Geethika      |99003594    |Modulus       |error                                             |errors are resolved                                     |
+Mounika CH    |99003595    |Division      |on bugging                                        |bugging issue is resolved                               |
+B.Preetham    |99003596    |Substraction  |   on operation                                   |operation issue is resolved                             |
+
+
 
 
 ## Test Summary
@@ -33,9 +46,9 @@ Name                  | PS Number            | No. of Test Cases             | N
 ## Challenges
 
 1. We faced challenges in drawing UML's diagrams.
-2. 
-3.
-4.
+2. We faced challenges in unit testing.
+3. We faced challenges in test plan
+4. We faced challenges in makefile
 
 ## Learning folder
 ![markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
