@@ -21,7 +21,7 @@ void calc_opr()
 	printf("Enter M or m for Multiplication \n");
 	printf("Enter D or d for Division \n");
 	printf("Enter P or p for Percentage \n");
-	prinprintf("Enter A or a for Addition \n");
+	printf("Enter A or a for Addition \n");
 	printf("Enter S or s for Subtraction \n");
 	printf("Enter M or m for Multiplication \n");
 	printf("Enter D or d for Division \n");
