@@ -3,7 +3,7 @@
 ## 1.Addition
 ![Image of Yaktocat](Behavioural/1.Addition.png)
 ## 2.subtraction
-![Image of Yaktocat]
+![Image of Yaktocat](Behavioural/2.subtraction.png)
 ## 3.Multiplication
 ![Image of Yaktocat]
 ## 4.Division
