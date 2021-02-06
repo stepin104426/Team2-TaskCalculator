@@ -2,7 +2,7 @@
 
 ## Badges
 
-![Cppcheck](https://github.com/99003592/Team2-TaskCalculator/workflows/Cppcheck/badge.svg)    ![C/C++ CI](https://github.com/99003592/Team2-TaskCalculator/workflows/C/C++%20CI/badge.svg)
+![Cppcheck](https://github.com/99003592/Team2-TaskCalculator/workflows/Cppcheck/badge.svg)    ![C/C++ CI](https://github.com/99003592/Team2-TaskCalculator/workflows/C/C++%20CI/badge.svg)   ![Git Inspector](https://github.com/99003592/Team2-TaskCalculator/workflows/Git%20Inspector/badge.svg)
 
 ## Folder Structure
 Folder             | Description
