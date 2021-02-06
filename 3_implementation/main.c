@@ -1,10 +1,8 @@
 #include <stdio.h>
-#include <math.h>
-
-#include "is_prime.h"
 #include "percentage.h"
 
 
+void do_percentage();
 
 
 void calc_opr()
@@ -30,9 +28,50 @@ void calc_opr()
 
 int main(void)
 {
-	int X = 1;
-	char Calc_opr;
+	//int X = 1;
+	char Calc_opr_input;
 
 	calc_opr();
+
+	switch(Calc_opr_input)
+	{
+		case 'A': 
+		case 'a':// do_addition();
+				break;
+		case 'S': 
+		case 's':// do_subtraction();
+				break;
+		case 'M': 
+		case 'm':// do_multiplication();
+				break;
+		case 'D': case 'd':// do_division();
+							break;
+		case 'P': case 'p': do_percentage();
+							break;
+		case 'L': case 'l':// do_modulus();
+							break;
+		case 'F': case 'f':// do_factorial();
+							break;
+		case 'E': case 'e':// do_exponential();
+							break;
+		// case 'Pr': case 'pr': is_prime();
+							// break;					
+		// case 'Q': case 'q': exit(0);
+		// 					break;
+		case 'H': case 'h': calc_opr();
+							break;
+		// case 'C': case 'c': system("cls");
+		// 					calc_opr();
+							break;
+		default : 
+			// system("cls");
+			printf("try again boi");
+	printf("\n**********You have entered unavailable option");
+    printf("***********\n");
+    printf("\n*****Please Enter any one of below available ");
+    printf("options****\n");
+
+	calc_opr();
+	}
 
 }
