@@ -7,3 +7,9 @@ Folder             | Description
 `2_design`         | Documents specifying design details
 `3_implementation` | All code and documentation
 `4_test_plan`      | Documents with test plans and procedures
+
+
+
+
+
+![Cppcheck](https://github.com/99003592/Team2-TaskCalculator/workflows/Cppcheck/badge.svg)
