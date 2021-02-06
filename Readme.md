@@ -32,15 +32,15 @@ B.Preetham    |99003596    |Substraction  |   on operation                      
 ## Test Summary
 Name                  | PS Number            | No. of Test Cases             | No. of Test Cases Passed          | No. of Test Cases not Passed 
 ----------------------|-------------------|------------------------------|----------------------------------|-------------------------------
-`1) Venkatampalli SaiBhargav` | 99003586     | |
-`2) SanjanaG S`           | 99003588 |
-`3) Madhura Subramanya Bhat` | 99003589 |
-`4) NallaSuryudu`| 99003591 |
-`5) AbhisarEkka` | 99003592  |
-`6) gouthamm gurusamy`   | 99003593 |
-`7) GeethikaMudragalla`  | 99003594  |
-`8) MounikaC H` | 99003595  |
-`9) PreethamBegari`  | 99003596  |
+`1) Venkatampalli SaiBhargav` | 99003586     | 4 | 4 | 0
+`2) SanjanaG S`           | 99003588 | 4 | 4 | 0
+`3) Madhura Subramanya Bhat` | 99003589 | 3 | 3 | 0
+`4) NallaSuryudu`| 99003591 | 3 | 3 | 0
+`5) AbhisarEkka` | 99003592  | 3 | 3 | 0
+`6) gouthamm gurusamy`   | 99003593 | 3 | 3 | 0
+`7) GeethikaMudragalla`  | 99003594  | 3 | 2 | 0
+`8) MounikaC H` | 99003595  | 4 | 4 | 0
+`9) PreethamBegari`  | 99003596  | 4 | 4 | 0
 
 
 # Challenges and Learning folder
@@ -52,9 +52,9 @@ Name                  | PS Number            | No. of Test Cases             | N
 4. We faced challenges in makefile
 
 ## Learning folder
-1. ![markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
+![markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
 
-2. ![git inspector](https://github.com/ejwa/gitinspector.git)
+![git inspector](https://github.com/ejwa/gitinspector.git)
 
-3. ![github workflow](https://docs.github.com/en/actions/learn-github-action) 
+![github workflow](https://docs.github.com/en/actions/learn-github-action) 
 
