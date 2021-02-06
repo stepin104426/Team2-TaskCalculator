@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include "exponential.h"
+#include <math.h>
+#include <stdlib.h>
 
 void do_exponential()
 {
