@@ -1,4 +1,4 @@
 # High level design
 ## Behavioural 
-(BehviouralConversionHighLevel.png)
+![Image of Yaktocat](BehviouralConversionHighLevel.png)
 ## Structural
