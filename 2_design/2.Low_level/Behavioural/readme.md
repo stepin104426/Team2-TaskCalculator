@@ -1,9 +1,9 @@
- Low level design
+# Low level design
 ## Behavioural
 ## 1.Addition
 ![Image of Yaktocat](Behavioural/1.Addition.png)
 ## 2.subtraction
-![Image of Yaktocat](Behavioural/2.subtraction.png)
+![Image of Yaktocat]
 ## 3.Multiplication
 ![Image of Yaktocat]
 ## 4.Division
